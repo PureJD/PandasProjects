@@ -19,7 +19,9 @@
 #### -The inital data is read from a csv using Pandas and formatted into a dictionary. 
 #### -The program then takes an input from the user and splits the word into a new dictionary of the idividual letters.
 #### -These letters are matched to the words in the dictionary and the words are returned in a formatted style for ease of reading. 
-![Pandas game2](https://github.com/PureJD/PandasProjects/blob/main/project_images/nato.png?raw=true)
+![Pandas game2](https://github.com/PureJD/PandasProjects/blob/main/project%20images/nato.png?raw=true)
+
+
 
 
 
