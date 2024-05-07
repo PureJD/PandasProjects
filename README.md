@@ -14,6 +14,18 @@
 #### -The picked state is then removed from the list. 
 #### -If all states are selected the game issues a winning message. If the user types exit, a new CSV file is created containing all the states the use failed to remember. 
 ![Pandas game](https://github.com/PureJD/PandasProjects/blob/main/country_guessing_game/game_image.png?raw=true)
+# NATO Alphabet assistant
+### This is an assistant that will input a word and provide you with the Nato alphabet words. The program runs;
+#### -The inital data is read from a csv using Pandas and formatted into a dictionary. 
+#### -The program then takes an input from the user and splits the word into a new dictionary of the idividual letters.
+#### -These letters are matched to the words in the dictionary and the words are returned in a formatted style for ease of reading. 
+![Pandas game2](https://github.com/PureJD/PandasProjects/blob/main/project_images/nato.png?raw=true)
+
+
+
+
+
+
 
 
 
